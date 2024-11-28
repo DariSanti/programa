@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21627875-5",
+ "nombre": "Dario",
+ "apellido": "Santibañez",
+ "direccion": "Gregoria 162",
+ "fono": 950681957,
+ "correo":"dario.santibanez@inacapmail.cl",
+ "montoCredito": 505050,
+ "deuda":606060,
+ "tipo": 3
+ }
+]
